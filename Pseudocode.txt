@@ -1,0 +1,8 @@
+Prompt the user  for "would you linke to continue"
+Get input
+Do promt the user
+	while the input is yes (y),
+End while  
+	if the input is no (n)
+else
+	pirnt error message then re-prompt the user

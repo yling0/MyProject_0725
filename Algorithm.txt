@@ -1,0 +1,9 @@
+Prompt the user  "Would you like to continue?", 
+
+after get input from the user, check 3 things:
+
+if get yes, then continue to re-prompt the user;
+
+if get no, then quit.
+
+if get other input,  give "Error message" then re-prompt the user. 
